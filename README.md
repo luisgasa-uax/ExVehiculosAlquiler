@@ -1,4 +1,3 @@
-
 # Examen Herencia y ArrayList
 
 ## Gestión de Vehículos de Alquiler
